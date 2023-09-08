@@ -1,5 +1,5 @@
 {
-    "name": "Sernox Vision v1.0",
+    "name": "Sernox Vision v1.8",
     "description": "Sernox Vision is a theme for horny sernox simps~<3",
 	"authors": [
       {
@@ -220,7 +220,7 @@
         ],
         "INFO_DANGER_FOREGROUND": [
             "#280606",
-            "#f07e7e,
+            "#f07e7e",
             "#000000"
         ],
         "INFO_DANGER_TEXT": [
@@ -241,7 +241,7 @@
         "INFO_HELP_TEXT": [
             "#dcddde",
             "#480a0a",
-            "#f07e7e
+            "#f07e7e"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#480a0a",
@@ -305,7 +305,7 @@
         ],
         "MODAL_FOOTER_BACKGROUND": [
             "#480a0a",
-            "#f07e7e,
+            "#f07e7e",
             "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
@@ -315,7 +315,7 @@
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#280606",
-            "#f07e7e,
+            "#f07e7e",
             "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
@@ -325,7 +325,7 @@
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#280606",
-            "#f07e7e,
+            "#f07e7e",
             "#000000"
         ],
         "STATUS_DANGER_BACKGROUND": [
@@ -379,9 +379,9 @@
             "#dcddde"
         ],
         "TEXT_MUTED": [
-            "#2678d6",
-            "#2678d6",
-            "#2678d6"
+            "#d62626",
+            "#d62626",
+            "#d62626"
         ],
         "TEXT_NORMAL": [
             "#dcddde",
@@ -403,8 +403,8 @@
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
         "PRIMARY_100": "#e63737",
         "PRIMARY_130": "#fadbdb",
-        "PRIMARY_200": "#f07e7e,
-        "PRIMARY_230": "#f07e7e,
+        "PRIMARY_200": "#f07e7e",
+        "PRIMARY_230": "#f07e7e",
         "PRIMARY_300": "#e63737",
         "PRIMARY_360": "#e62727",
         "PRIMARY_400": "#800f0f",
